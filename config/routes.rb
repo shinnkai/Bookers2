@@ -10,3 +10,4 @@ Rails.application.routes.draw do
   get '/home/about' => 'homes#about'
 
 end
+
